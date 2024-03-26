@@ -22,4 +22,4 @@ Get in Touch
 I'm always open to collaboration, learning opportunities, and networking with fellow enthusiasts and professionals in the field. Feel free to reach out via email or connect with me on LinkedIn.
 
 Email: karanikristian1@gmail.com
-LinkedIn: 
+LinkedIn: Kristian Karani 
