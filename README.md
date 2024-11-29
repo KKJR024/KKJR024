@@ -1,25 +1,20 @@
 About Me
+Hi there! I'm a passionate cybersecurity enthusiast and software developer focusing on securing digital systems. I'm proficient in Python and React and highly comfortable working in Linux environments.
 
-I'm a computer science enthusiast passionate about programming and networking. My goal is to become proficient in Python and specialize in networking technologies. As I journey through my studies, I'm constantly exploring new concepts, refining my skills, and contributing to the open-source community.
+I've recently completed the Google Cybersecurity Professional Certificate, which has equipped me with a solid foundation in network security, threat intelligence, incident response, and more.
+...
+Skills
+Python
+React
+Linux
+Cybersecurity
+Network Security
+Threat Intelligence
+Incident Response
 
-Projects
- Current:
-  -Tic tac toe in py
-  -Encryptor in py 
+Interests
+Beyond technology, I'm passionate about motorsports and aviation.
 
-Future:
-
-
-Skills and Interests
-
--Proficient in Python programming language
--Networking fundamentals including TCP/IP, UDP, DNS, DHCP
--Socket programming and client-server architectures
--Network security concepts such as encryption, authentication, and firewalls
-
-Get in Touch
-
-I'm always open to collaboration, learning opportunities, and networking with fellow enthusiasts and professionals in the field. Feel free to reach out via email or connect with me on LinkedIn.
-
-Email: karanikristian1@gmail.com
-LinkedIn: Kristian Karani 
+Let's Connect
+Email: karanikristian@gmail.com
+LinkedIn: linkedin.com/in/karani-khayundi-5507a2300/
